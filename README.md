@@ -4,8 +4,8 @@ Reappear-CVE-2022-21449-TLS-PoC
 # 首先開始之前 我想感謝與致敬一些人
 [1] Neil Madden ; 發現並揭露 CVE-2022-21449, 這是他出色的 [WriteUp](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/). \
 [2] Khaled Nassar ; 完成[PoC](https://github.com/notkmhn/CVE-2022-21449-TLS-PoC).\
-[3] 育正葛葛的資安遊樂場 ; \
-[4] AIS3的D組助教們 ; \
+[3] 育正葛葛的資安遊樂場 ; 使用淺顯易懂的方式利用YT影片描述[CVE](https://www.youtube.com/watch?v=3GEOaQ2dA3Y&ab_channel=%E8%82%B2%E6%AD%A3%E8%91%9B%E8%91%9B%E7%9A%84%E8%B3%87%E5%AE%89%E9%81%8A%E6%A8%82%E5%A0%B4). \
+[4] AIS3的D組助教們 \
 感謝上述的大神/公開教材 很強大的學習榜樣 同時也感謝助教在AIS3的協助 D5Team表示感謝。
 
 # Reappear Note
