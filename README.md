@@ -1,9 +1,19 @@
 # AIS3-2024-Project-D5Team
 Reappear-CVE-2022-21449-TLS-PoC
 
+# 首先開始之前 我想感謝與致敬一些人
+[1] Neil Madden ; 發現並揭露 CVE-2022-21449, 這是他出色的 [WriteUp](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/). \
+[2] Khaled Nassar ; 完成[PoC](https://github.com/notkmhn/CVE-2022-21449-TLS-PoC).\
+[3] 育正葛葛的資安遊樂場 ; \
+[4] AIS3的D組助教們 ; \
+感謝上述的大神/公開教材 很強大的學習榜樣 同時也感謝助教在AIS3的協助 D5Team表示感謝。
 
+# Reappear Note
 
-Refer : \
+## Step 1
+...
+
+# Refer :
 [1] https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/ \
 [2] https://github.com/notkmhn/CVE-2022-21449-TLS-PoC \
 [3] https://ithelp.ithome.com.tw/articles/10304518 \
