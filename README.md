@@ -23,7 +23,8 @@ Reappear-CVE-2022-21449-TLS-PoC
 [5] https://jfrog.com/blog/cve-2022-21449-psychic-signatures-analyzing-the-new-java-crypto-vulnerability/ \
 [6] https://developer.aliyun.com/article/1028316 \
 [7] [https://www.youtube.com/watch_1](https://www.youtube.com/watch?v=3GEOaQ2dA3Y&ab_channel=%E8%82%B2%E6%AD%A3%E8%91%9B%E8%91%9B%E7%9A%84%E8%B3%87%E5%AE%89%E9%81%8A%E6%A8%82%E5%A0%B4) \
-[8] [https://www.youtube.com/watch_2](https://www.youtube.com/watch?v=RdYJrViBXBg&ab_channel=%E8%82%B2%E6%AD%A3%E8%91%9B%E8%91%9B%E7%9A%84%E8%B3%87%E5%AE%89%E9%81%8A%E6%A8%82%E5%A0%B4)
+[8] [https://www.youtube.com/watch_2](https://www.youtube.com/watch?v=RdYJrViBXBg&ab_channel=%E8%82%B2%E6%AD%A3%E8%91%9B%E8%91%9B%E7%9A%84%E8%B3%87%E5%AE%89%E9%81%8A%E6%A8%82%E5%A0%B4) \
+[9] [https://www.fujifilm.com/fbtw/zh-tw/insights/article/zero-trust](https://www.fujifilm.com/fbtw/zh-tw/insights/article/zero-trust)
 
 
 ###### tags: `AIS32024` `D組跨領域` `專題` `共筆` 
