@@ -8,7 +8,7 @@ Reappear-CVE-2022-21449-TLS-PoC
 [4] AIS3的D組助教們 ; 感謝專題中各種 想法/資源/技術 支援 \
 感謝上述的大神資源與支援 很強大的學習榜樣 AIS3 Team D5 表示感謝 !
 
-# [HackMD_D5Team共筆(按我即可飛)](https://hackmd.io/JhxM0PGkQ-uvBnXWm6UnfQ)
+# [HackMD_TeamD5 共筆(按我即可飛)](https://hackmd.io/JhxM0PGkQ-uvBnXWm6UnfQ)
 
 # Reappear Note
 
