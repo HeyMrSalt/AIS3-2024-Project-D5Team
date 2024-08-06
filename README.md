@@ -12,10 +12,7 @@ Reappear-CVE-2022-21449-TLS-PoC
 
 # Reappear Note
 
-![image](https://github.com/user-attachments/assets/adab2f68-d909-49b7-a5b2-664976173461)
-
-## Step 1
-...
+![Untitled](/Fig/Project_PPT_FirstPage.png)
 
 # Refer :
 [1] https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/ \
